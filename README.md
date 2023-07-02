@@ -1,2 +1,2 @@
 # HRAnalytics
-Developed HR Analytics Dashboard for Atliq leveraging Power BI and Excel: Created an interactive and visually appealing dashboard using Power BI and Excel to analyze and visualize key HR metrics and trends at Atliq. This dashboard provides valuable insights into employee Attendance Details like WFH , SL enabling data-driven decision-making.
+The HR Analytics Dashboard that I developed for Atliq using Power BI and Excel serves multiple purposes beyond tracking employee presence, WFH, and sick leave. In addition to these functionalities, the dashboard can also be utilized for organizing events and providing various insights for human resources management.
